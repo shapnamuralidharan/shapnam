@@ -1,0 +1,21 @@
+title: Shapna Muralidharan# your name (or website title) here
+logo: "/images/shapnam.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  Being a R and Manager in Radionode, and previously as a PostDoc has brough over 5 years of experience leading and managing research and development in IoT projects including the field of Artificial Intelligence.
+  My expertise spans across various domains of IoT like networking, decentralized, distributed P2P IoT, focussing on integrating blockchain,  Digital Twins for IoT applications and orchestrating the IoT metrics using Machine learning, AI, computer vision, deep learning, and eXplainable AI.
+  <br><br>
+   Currently I have a proven track record of identifying new opportunities for innovation and developing AI-based products and services that meet the needs of diverse industries. Through my  passion for staying up-to-date with the latest advancements in AI research and technology I am able to apply cutting-edge techniques in our business problems. 
+  <br><br>
+  <a href="https://www.linkedin.com/in/shapna-muralidharan-87325b83/">View my LinkedIn Profile</a> 
+  <a href="https://medium.com/@shapna_m">View my Medium Articles</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+colors:
+  crimson: '#900C3F'
+
+
+
+   
